@@ -1,0 +1,15 @@
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+    url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim-go"]
+	path = bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "bundle/tagbar"]
+    path = bundle/tagbar
+    url = https://github.com/majutsushi/tagbar
+[submodule "bundle/go-explorer"]
+    path = bundle/go-explorer
+    url = https://github.com/akavel/go-explorer
+[submodule "bundle/neocomplete.vim"]
+	path = bundle/neocomplete.vim
+    url = https://github.com/Shougo/neocomplete.vim
