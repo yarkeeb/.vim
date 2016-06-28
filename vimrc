@@ -12,9 +12,9 @@ syntax on
 " Neocomplete
 let g:neocomplete#enable_at_startup = 1
 " Vim-go
-let g:go_fmt_fail_silently = 0
 let g:go_fmt_command = "goimports"
-let g:go_fmt_autosave = 0
+let g:go_fmt_fail_silently = 1
+let g:go_fmt_autosave = 1
 let g:go_term_enabled = 1	
 let g:go_disable_autoinstall = 0
 let g:syntatic_go_checkers = ['golint']
