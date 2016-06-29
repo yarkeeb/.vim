@@ -4,6 +4,7 @@ filetype plugin indent on
 " Colorscheme
 colorscheme molokai
 " Settings
+set nobackup
 set number  
 set encoding=utf-8
 set tabstop=4
